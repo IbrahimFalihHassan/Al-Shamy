@@ -161,7 +161,6 @@ header>img#imgTop {
     border: 1px solid rgba(0, 0, 0, 0.101);
     border-radius: 5px;
 
-    max-width: 40vh;
     min-width: 40vh;
 
     min-height: 20vh;
@@ -208,7 +207,7 @@ ul {
 
 li {
     list-style: none;
-    padding: 20px 0px;
+    padding: 20px 8px;
     text-align: center;
 
     font-size: 20px;
